@@ -5,37 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e3b170-616a-4f84-aefc-24ad043ffaf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgrammingUdemyCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/AssignmentOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/Day3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/DecrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/IncrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/OperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/SwappingTwoNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/Day4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/EvenOrOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/IfElseCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/Ifcondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/LargestOf3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/NumberPositiveNagitiveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/PrintWeekNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/SwitchCaseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/Day5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/ForloopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/JumpingStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/WhileLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/WhileVsDoWhileloops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day1/Github_commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/Number_Count_even_Odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day6/Day6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day6/EnenOddFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day6/SingleDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day6/Sum_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day6/TwoDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kaurk116"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kaurk116/JavaProgrammingUdemyCourse.git",
+    "accountId": "df30df5d-b0c0-4dc1-82fa-9f710f59eac2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -63,34 +52,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EnenOddFromArray.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
     "Application.NestedIfElse.executor": "Run",
     "Application.NumberPositiveNagitiveZero.executor": "Run",
+    "Application.Number_Count_even_Odd.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.ReverseString.executor": "Run",
+    "Application.Sum_of_Array.executor": "Run",
     "Application.SwappingTwoNumber.executor": "Run",
+    "Application.TwoDimensionalArray.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/JavaPogramming/Day3",
+    "last_opened_file_path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/JavaPogramming/Day6",
     "onboarding.tips.debug.path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day6" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day3" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day4" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
-    <configuration name="IncrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day3.IncrementOperator" />
+  <component name="RunManager" selected="Application.EnenOddFromArray">
+    <configuration name="EnenOddFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day6.EnenOddFromArray" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day3.*" />
+          <option name="PATTERN" value="JavaPogramming.Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPositiveNagitiveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day4.NumberPositiveNagitiveZero" />
+    <configuration name="Number_Count_even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day5.Number_Count_even_Odd" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day4.ReverseNumber" />
-      <module name="JavaProgrammingUdemyCourse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day4.*" />
+          <option name="PATTERN" value="JavaPogramming.Day5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwappingTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day3.SwappingTwoNumber" />
+    <configuration name="Sum_of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day6.Sum_of_Array" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day3.*" />
+          <option name="PATTERN" value="JavaPogramming.Day6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day6.TwoDimensionalArray" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnenOddFromArray" />
+        <item itemvalue="Application.Sum_of_Array" />
+        <item itemvalue="Application.Number_Count_even_Odd" />
+        <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.SwappingTwoNumber" />
-        <item itemvalue="Application.IncrementOperator" />
-        <item itemvalue="Application.NumberPositiveNagitiveZero" />
       </list>
     </recent_temporary>
   </component>
