@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96e3b170-616a-4f84-aefc-24ad043ffaf4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingUdemyCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/AssignmentOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/Day3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/DecrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/IncrementOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/OperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/SwappingTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day3/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/Day4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/EvenOrOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/IfElseCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/Ifcondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/LargestOf3Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/NumberPositiveNagitiveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/PrintWeekNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day4/SwitchCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/Day5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/ForloopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/JumpingStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/WhileLoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day5/WhileVsDoWhileloops.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="35dlwnmb0sGUQPxO7ArPrQymZ44" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IncrementOperator.executor": "Run",
+    "Application.NestedIfElse.executor": "Run",
+    "Application.NumberPositiveNagitiveZero.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.SwappingTwoNumber.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/JavaPogramming/Day3",
+    "onboarding.tips.debug.path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day3" />
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day4" />
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReverseString">
+    <configuration name="IncrementOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day3.IncrementOperator" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPositiveNagitiveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day4.NumberPositiveNagitiveZero" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day4.ReverseNumber" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day4.ReverseString" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappingTwoNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day3.SwappingTwoNumber" />
+      <module name="JavaProgrammingUdemyCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaPogramming.Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.SwappingTwoNumber" />
+        <item itemvalue="Application.IncrementOperator" />
+        <item itemvalue="Application.NumberPositiveNagitiveZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96e3b170-616a-4f84-aefc-24ad043ffaf4" name="Changes" comment="" />
+      <created>1763448075338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763448075338</updated>
+    </task>
+    <servers />
+  </component>
+</project>
