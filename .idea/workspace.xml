@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96e3b170-616a-4f84-aefc-24ad043ffaf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/CountEvenAndOddInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/Day7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/FindDuplicateNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/FineMissingNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/ReverseAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/SearchElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day7/SortElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day8/ObjectTypeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day8/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Stringreverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day10/Day10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day10/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day10/EmployeeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day10/StudentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day11/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day11/Greetingmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day11/Studentmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Assignment/CountCharacterinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Assignment/CountWordinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Assignment/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Assignment/RemoveJunk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaPogramming/Day9/Assignment/RemoveSpace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +58,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CountCharacterinString.executor": "Run",
     "Application.CountEvenAndOddInArray.executor": "Run",
+    "Application.CountWordinString.executor": "Run",
     "Application.EnenOddFromArray.executor": "Run",
     "Application.FindDuplicateNumberInArray.executor": "Run",
     "Application.FineMissingNumberInArray.executor": "Run",
+    "Application.Greetingmain.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
     "Application.NestedIfElse.executor": "Run",
     "Application.NumberPositiveNagitiveZero.executor": "Run",
     "Application.Number_Count_even_Odd.executor": "Run",
+    "Application.PalindromeString.executor": "Run",
+    "Application.RemoveJunk.executor": "Run",
+    "Application.RemoveSpace.executor": "Run",
     "Application.ReverseAnArray.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.SearchElementInArray.executor": "Run",
     "Application.SortElementInArray.executor": "Run",
     "Application.Stringreverse.executor": "Run",
+    "Application.Studentmain.executor": "Run",
     "Application.Sum_of_Array.executor": "Run",
     "Application.SwappingTwoNumber.executor": "Run",
     "Application.TwoDimensionalArray.executor": "Run",
@@ -77,26 +88,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/JavaPogramming/Day8",
+    "last_opened_file_path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/JavaPogramming/Day11",
     "onboarding.tips.debug.path": "/home/karam/Documents/Projects/JavaProgrammingUdemyCourse/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day10" />
+      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day9" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day8" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day7" />
       <recent name="$PROJECT_DIR$/src/JavaPogramming/Day6" />
-      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day3" />
-      <recent name="$PROJECT_DIR$/src/JavaPogramming/Day4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stringreverse">
-    <configuration name="FineMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day7.FineMissingNumberInArray" />
+  <component name="RunManager" selected="Application.Studentmain">
+    <configuration name="CountCharacterinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day9.Assignment.CountCharacterinString" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day7.*" />
+          <option name="PATTERN" value="JavaPogramming.Day9.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day7.ReverseAnArray" />
+    <configuration name="CountWordinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day9.Assignment.CountWordinString" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day7.*" />
+          <option name="PATTERN" value="JavaPogramming.Day9.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day7.SearchElementInArray" />
+    <configuration name="Greetingmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day11.Greetingmain" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day7.*" />
+          <option name="PATTERN" value="JavaPogramming.Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day7.SortElementInArray" />
+    <configuration name="RemoveSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day9.Assignment.RemoveSpace" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day7.*" />
+          <option name="PATTERN" value="JavaPogramming.Day9.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringreverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day9.Stringreverse" />
+    <configuration name="Studentmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaPogramming.Day11.Studentmain" />
       <module name="JavaProgrammingUdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaPogramming.Day9.*" />
+          <option name="PATTERN" value="JavaPogramming.Day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stringreverse" />
-        <item itemvalue="Application.FineMissingNumberInArray" />
-        <item itemvalue="Application.ReverseAnArray" />
-        <item itemvalue="Application.SortElementInArray" />
-        <item itemvalue="Application.SearchElementInArray" />
+        <item itemvalue="Application.Studentmain" />
+        <item itemvalue="Application.Greetingmain" />
+        <item itemvalue="Application.CountWordinString" />
+        <item itemvalue="Application.CountCharacterinString" />
+        <item itemvalue="Application.RemoveSpace" />
       </list>
     </recent_temporary>
   </component>
