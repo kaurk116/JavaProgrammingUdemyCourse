@@ -4,7 +4,7 @@ public class Account {
     private int Accountno;
     private  String name;
     private double Amount;
-
+//create the getter and setter
     public int getAccountno() {
         return Accountno;
     }
