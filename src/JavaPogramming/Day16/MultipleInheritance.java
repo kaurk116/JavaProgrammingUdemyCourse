@@ -1,9 +1,10 @@
 package JavaPogramming.Day16;
 
-public class MultipleInheritance implements I1,I2
+public class MultipleInheritance implements Interface_1, Interface_2
 {
 
 	public void m1()
+
 	{
 		System.out.println(" this is m1...");
 	}
